@@ -1,6 +1,5 @@
 package ru.sunbrothers.reflection_and_proxy.main.java.reflection;
 
-
 import ru.sunbrothers.reflection_and_proxy.main.java.reflection.Utils.PrintAboutClass;
 
 public class Main {
